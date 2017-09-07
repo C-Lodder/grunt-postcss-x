@@ -1,10 +1,10 @@
-# grunt-postcss
+# grunt-postcss-x
 
 Original author: [Dmitry Nikitenko](https://github.com/nDmitry/grunt-postcss)
 
 [![NPM Version](https://img.shields.io/npm/v/grunt-postcss-x.svg)](https://www.npmjs.com/package/grunt-postcss-x)
-[![Build Status](https://img.shields.io/travis/c-lodder/grunt-postcss-x/master.svg)](https://travis-ci.org/c-lodder/grunt-postcss-x)
-[![Dependency Status](https://img.shields.io/david/c-lodder/grunt-postcss-x.svg)](https://david-dm.org/c-lodder/grunt-postcss-x)
+[![Build Status](https://img.shields.io/travis/C-Lodder/grunt-postcss-x/master.svg)](https://travis-ci.org/C-Lodder/grunt-postcss-x)
+[![Dependency Status](https://img.shields.io/david/C-Lodder/grunt-postcss-x.svg)](https://david-dm.org/C-Lodder/grunt-postcss-x)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 > Apply several post-processors to your CSS using [PostCSS](https://github.com/postcss/postcss).
