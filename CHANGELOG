@@ -1,8 +1,8 @@
-WIP
+v0.9.0
 	date: 07/07/2017
 	changes:
 	  - Fork grunt-postcss
-	  - Update all dependencies
+	  - Update all dependencies to latest versions
 v0.8.0
     date: 2016-03-03
     changes:
