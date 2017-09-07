@@ -1,0 +1,45 @@
+{
+  "name": "grunt-postcss-x",
+  "version": "0.8.0",
+  "description": "Apply several post-processors to your CSS using PostCSS",
+  "author": {
+    "name": "Charlie Lodder",
+  },
+  "repository": "C-Lodder/grunt-postcss-x",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "gruntplugin",
+    "postcss-runner",
+    "css",
+    "postprocessor",
+    "postcss"
+  ],
+  "files": [
+    "tasks",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "diff": "^3.3.1",
+    "postcss": "^6.0.11"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2",
+    "postcss-scss": "^1.0.2",
+    "time-grunt": "^1.4.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.5"
+  }
+}
