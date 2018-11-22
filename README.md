@@ -1,3 +1,9 @@
+## Deprecated
+
+This package is now deprecated. Please use https://github.com/C-Lodder/grunt-postcss
+
+---
+
 # grunt-postcss-x
 
 Original author: [Dmitry Nikitenko](https://github.com/nDmitry/grunt-postcss)
